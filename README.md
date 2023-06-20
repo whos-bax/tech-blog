@@ -1,8 +1,10 @@
-# Engineer-Information-Processing
-정보처리기사 단원 정리
+# Tech-blog
+1. 정보처리기사 단원 정리
 
 ## React-md-editor
 https://uiwjs.github.io/react-md-editor/
+
+---
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
