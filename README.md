@@ -1,4 +1,7 @@
-# Tech-blog
+# PK Tech-blog
+### Penalty-Kick Tech-blog
+##### - Park Sang-ho
+##### - Kang Tae-rang
 1. 정보처리기사 단원 정리
 
 ## React-md-editor
